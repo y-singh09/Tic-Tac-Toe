@@ -11,7 +11,8 @@ Welcome to the **Tic Tac Toe Game** repository! This project is a simple yet fun
 
 ## Screenshots
 
-![Game Screenshot](path/to/screenshot.png)
+![Game Screenshot](Game_Screenshot01.png)
+![Game Screenshot](Game_screenshot02.png)
 
 ## Getting Started
 
